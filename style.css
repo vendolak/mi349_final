@@ -60,6 +60,14 @@ a.button
   padding: 10px;
 }
 
+#dog1{
+  text-align: center;
+}
+
+#dog2{
+  text-align: center;
+}
+
 .row {
   display: flex;
 }
