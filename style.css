@@ -65,6 +65,7 @@ a.button
 }
 
 #right{
+    float: left;
     margin: 40px;
     color:rgb(58, 58, 58);
     padding: 100px;
